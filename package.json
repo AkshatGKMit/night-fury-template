@@ -1,0 +1,24 @@
+{
+	"name": "night-fury-template",
+	"version": "0.0.1",
+	"scripts": {
+		"test": "exit 0"
+	},
+	"files": [
+		"template",
+		"template.config.js"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AkshatGKMit/night-fury-template.git"
+	},
+	"keywords": [
+		"react-native",
+		"typescript",
+		"jest",
+		"template",
+		"components"
+	],
+	"author": "Akshat Gupta <akshatgupta30082004@gmail.com>",
+	"license": "MIT"
+}
